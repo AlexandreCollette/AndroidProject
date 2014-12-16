@@ -13,7 +13,7 @@ public class Page_LoginFR extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_page__login_fr);
     }
-// Test Alex 2
+// Test Alex 3
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
